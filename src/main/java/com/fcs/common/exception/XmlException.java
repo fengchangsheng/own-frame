@@ -1,4 +1,4 @@
-package com.fcs.common.utils;
+package com.fcs.common.exception;
 
 /**
  * Created by Lucare.Feng on 2016/3/24.
